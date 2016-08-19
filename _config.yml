@@ -1,0 +1,14 @@
+layout_spectrum: 0.03637075889855623
+typography_spectrum: 0.7363840711768717
+color:
+  brandStrength: 0.8314476609230042
+  lightness: 0.9964986590202898
+  saturation: 0.9520592517219484
+  rhythmicContrast: 0.8597864550538361
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Indie Lunchbox
